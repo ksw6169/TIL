@@ -1,5 +1,4 @@
-# TIL
-Today I Learned(2020)
+# TIL(Today I Learned, 2020)
 ---
 # 2020.5월
 
