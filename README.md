@@ -1,5 +1,5 @@
 # TIL(Today I Learned, 2020)
-> 하루간 공부한 내용을 간략히 메모하는 Repository 입니다. (=잔디 설치용 Repository)
+> 하루간 공부한 내용을 간략히 메모하는 Repository 입니다.
 　
 # 2020.5월
 - **5월 16일(토)** 
@@ -22,3 +22,7 @@
 - **7월 16일 ~ 7월 17일**
   - 토이프로젝트 개발 위한 Vue.js 학습(13 Directive) 
  
+# 2020.8월
+- **8월 10일 ~ 8월 16일**
+  - Axios, promise, async/await
+  - Service factory
