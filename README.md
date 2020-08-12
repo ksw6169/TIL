@@ -25,4 +25,4 @@
 # 2020.8월
 - **8월 10일 ~ 8월 16일**
   - Axios, promise, async/await
-  - Service factory
+  - Service factory, @Conditional Annotation
