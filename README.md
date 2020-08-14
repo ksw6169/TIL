@@ -26,3 +26,4 @@
 - **8월 10일 ~ 8월 16일**
   - Axios, promise, async/await
   - Service factory, @Conditional Annotation
+  - CSRF, XSS, Http Referer
