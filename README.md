@@ -28,3 +28,4 @@
   - Service factory, @Conditional Annotation
   - CSRF, XSS, Http Referer
   - Spring Security(csrf)
+  - 신규 개인프로젝트 구상
