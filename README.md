@@ -29,3 +29,6 @@
   - CSRF, XSS, Http Referer
   - Spring Security(csrf)
   - 신규 개인프로젝트 구상
+
+- **8월 17일 ~ 8월 23일**
+  - Spring Security Reference(5장 ~)
