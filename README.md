@@ -32,4 +32,5 @@
 
 - **8월 17일 ~ 8월 23일**
   - Spring Security Reference(5장 ~)
-  - Java Effective 8~12장
+  - Java Effective 8~10장(화)
+  - Java Effective 11~14장(수)
