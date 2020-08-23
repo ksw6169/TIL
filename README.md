@@ -37,3 +37,4 @@
   - Java Effective 13~18장(목)
   - 데이트 & 휴식(금)
   - 양주 귀가(토)
+  - Scannotation Sample(일)
