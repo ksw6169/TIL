@@ -34,7 +34,10 @@
   - Spring Security Reference(5장 ~)
   - Java Effective 8~10장(화)
   - Java Effective 11~12장(수)
-  - Java Effective 13~18장(목)
+  - Java Effective 13~14장(목)
   - 데이트 & 휴식(금)
   - 양주 귀가(토)
   - Scannotation Sample(일)
+
+- **8월 24일 ~ 8월 30일**
+  - Java Effective 15~18장(월)
