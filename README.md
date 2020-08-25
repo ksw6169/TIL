@@ -41,3 +41,4 @@
 
 - **8월 24일 ~ 8월 30일**
   - Java Effective 15~18장(월)
+  - Java Effective 19-22장(화)
