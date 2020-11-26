@@ -83,3 +83,4 @@
 - **11월 23일 ~ 11월 25일**
   - 엘라스틱서치 실무 가이드 10장(화)
   - [Query Syntax 정리ㅣApache Lucene](https://sungwonkim.tistory.com/22)(수)
+  - 엘라스틱서치 실무 가이드 11장(목)
